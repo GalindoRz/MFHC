@@ -8,7 +8,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Te amo mucho, ya no me odies, mi bonita";
+  question.innerHTML = "Te amo mucho, ya no me odies, mi amor bonita ❤";
   gif.src =
     "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
     alert('Te extrañé mucho estos dias 😿');
